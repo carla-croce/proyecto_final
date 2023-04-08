@@ -1,0 +1,5 @@
+[
+    {"plan": 1, "duracion": "2 semanas", "precio": 2000},
+    {"plan": 2, "duracion": "1 mes", "precio": 3500},
+    {"plan": 3, "duracion": "2 meses", "precio": 5500}
+]

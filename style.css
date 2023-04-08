@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;400&display=swap');
+/* selector descendentes */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: url(./img/backgrounds/colores2.jpg);
+  }
+  
+  .titulo1 {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(236, 102, 205);
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .card {
+    background-color: rgb(241, 203, 236);
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .bg-violet{
+    background-color: rgb(233, 147, 213);
+  }
+
+  .text{
+    font-weight: bold;
+  }
